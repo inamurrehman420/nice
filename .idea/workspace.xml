@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82736079-da45-453e-a4b8-ca20f7975756" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/blog-grid-one.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-grid-one.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-grid-three.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-grid-three.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-grid-two.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-grid-two.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-left-sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-right-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-right-sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-sidebar-less.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-sidebar-less.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-signle-left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-signle-left-sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-signle-right-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-signle-right-sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-signle-sidebar-less.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-signle-sidebar-less.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-multipage-boxed.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-multipage-boxed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-multipage-dark.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-multipage-dark.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-multipage-rtl.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-multipage-rtl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-multipage.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-multipage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-multipage2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-multipage2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-multipage3.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-multipage3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-singlepage-boxed.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-singlepage-boxed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-singlepage-dark.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-singlepage-dark.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-singlepage-rtl.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-singlepage-rtl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-singlepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-singlepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/color-switcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/color-switcher.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-about.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-about2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-about2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-about3.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-about3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-appointment.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-appointment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-carrer.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-carrer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-coming-soon.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-coming-soon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-coming-soon2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-coming-soon2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-contact2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-contact2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-contact3.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-contact3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-course-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-course-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-courses-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-courses-grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-courses-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-courses-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-divider.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-divider.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-error.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-event-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-event-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-event-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-event-grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-event-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-event-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-fullcalendar.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-fullcalendar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-fullcalendar2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-fullcalendar2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-gallery-fancybox-wide.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-gallery-fancybox-wide.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-gallery-fancybox.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-gallery-fancybox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-job-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-job-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-pricing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-pricing2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-pricing2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-product-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-product-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-shop-acc-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-shop-acc-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-shop-account.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-shop-account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-shop-address.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-shop-address.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-shop-order.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-shop-order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-shop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-shoping-cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-shoping-cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-shoping-checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-shoping-checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-sitemap.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-sitemap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-team-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-team-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-team-registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-team-registration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-team.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-team2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-team2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-under-construction.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-under-construction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-masonry-3-space.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-3-space.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-masonry-3-wide-space-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-3-wide-space-detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-masonry-3-wide-space-title.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-3-wide-space-title.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-masonry-3-wide-space.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-3-wide-space.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-masonry-3-wide.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-3-wide.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-masonry-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-masonry-4-space-title.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-4-space-title.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-masonry-4-space.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-4-space.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-masonry-4-wide-space.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-4-wide-space.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-masonry-4-wide.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-4-wide.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-masonry-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-masonry-isotop-4-wide.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-isotop-4-wide.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-masonry-isotop-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-isotop-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shortcode-buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/shortcode-buttons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shortcode.html" beforeDir="false" afterPath="$PROJECT_DIR$/shortcode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-background-parallax-home.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-background-parallax-home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-background-particles-home.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-background-particles-home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-background-particles.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-background-particles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-background-particles2-home.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-background-particles2-home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-background-video-home.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-background-video-home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-background-video.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-background-video.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-bg-parallax.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-bg-parallax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-booking-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-booking-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-booking-form2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-booking-form2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-booking-form3.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-booking-form3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-contact-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-contact-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-contact-form2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-contact-form2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-contact-form3.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-contact-form3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-contact-form4.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-contact-form4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-contact-form5.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-contact-form5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-elegant-icon-font.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-elegant-icon-font.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-fullpage-slider.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-fullpage-slider.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-home-leftside-menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-home-leftside-menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-icon-box.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-icon-box.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-icon-moon.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-icon-moon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-job-apply-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-job-apply-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-job-apply-form2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-job-apply-form2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-menu-fullscreen.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-menu-fullscreen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-menu-standard-center.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-menu-standard-center.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulockd-menu-standard-left.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-menu-standard-left.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ldkfimQ1TQBNOe3cAuJLMxM7fZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82736079-da45-453e-a4b8-ca20f7975756" name="Changes" comment="" />
+      <created>1725517445540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725517445540</updated>
+      <workItem from="1725517446936" duration="3665000" />
+      <workItem from="1725524654699" duration="3107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -99,25 +99,4 @@ jQuery(document).ready(function($) {
 jQuery('head').append('<link rel="stylesheet" id="colors" href="css/colors/default.css" type="text/css" />');
 jQuery('head').append('<link rel="stylesheet" href="css/color-switcher.css" type="text/css" />'); 
 
-jQuery('body').append('' + 
-	'<div id="color-style-switcher">' +
-		'<div>' + 
-			'<h3>Color Palette</h3>' +
-			'<ul class="colors">' +
-				'<li><a class="color1 active" href="#"></a></li>' +
-				'<li><a class="color2" href="#"></a></li>' +
-				'<li><a class="color3" href="#"></a></li>' +
-				'<li><a class="color4" href="#"></a></li>' +
-				'<li><a class="color5" href="#"></a></li>' +
-				'<li><a class="color6" href="#"></a></li>' +
-				'<li><a class="color7" href="#"></a></li>' +
-				'<li><a class="color8" href="#"></a></li>' +
-				'<li><a class="color9" href="#"></a></li>' +
-				'<li><a class="color10" href="#"></a></li>' +
-				'<li><a class="color11" href="#"></a></li>' +
-				'<li><a class="color12" href="#"></a></li>' +
-			'</ul>' +
-		'</div>' +
-		'<div class="bottom"> <a href="#" class="settings"></a> </div>' +
-	'</div>' +
-'');
+ 
