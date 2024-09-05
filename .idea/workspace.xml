@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82736079-da45-453e-a4b8-ca20f7975756" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/blog-grid-three.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-grid-three.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-sidebar-less.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-sidebar-less.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-signle-left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-signle-left-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-signle-right-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-signle-right-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-singlepage-boxed.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-singlepage-boxed.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-singlepage-dark.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-singlepage-dark.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-singlepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-singlepage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-carrer.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-carrer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-coming-soon2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-coming-soon2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-divider.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-divider.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-event-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-event-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-shop-address.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-shop-address.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-shop-order.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-shop-order.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-team-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-team-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-team2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-team2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-masonry-3-wide-space.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-3-wide-space.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-masonry-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-masonry-4-space.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-4-space.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-masonry-4-wide-space.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-4-wide-space.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-masonry-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ulockd-background-parallax-home.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-background-parallax-home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ulockd-background-video-home.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulockd-background-video-home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725517445540</updated>
       <workItem from="1725517446936" duration="3665000" />
-      <workItem from="1725524654699" duration="3478000" />
+      <workItem from="1725524654699" duration="4170000" />
     </task>
     <servers />
   </component>

@@ -19,7 +19,8 @@
 @import url(flipclock.css);
 @import url(timecounter.css);
 @import url(3d-buttons.css);
-@import url(../../../../css);
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
 /* Table of contents */
 /* This file is table of content of this template */
 /* Typography */
@@ -115,11 +116,7 @@ iframe {
   color: #ffffff;
   text-shadow: none; }
 
-::-webkit-selection {
-  /* Safari */
-  background: #222222;
-  color: #ffffff;
-  text-shadow: none; }
+
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
